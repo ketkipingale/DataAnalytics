@@ -1,1 +1,1 @@
-# DataAnalytics
+A Professional having IT experience as Power BI Developer along with Data Visualization in analyzing the BI needs, interpreting business user requirements and translating them into insights in the form of Reports/Dashboards. I have created some Dashboards.
